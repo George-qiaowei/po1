@@ -1,0 +1,15 @@
+test_phone:
+  test_phone_001:
+    phone: "188"
+    pwd: "188123"
+  test_phone_002:
+    phone: "177"
+    pwd: "177123"
+  test_phone_003:
+    phone: "166"
+    pwd: "166123"
+test_username:
+  test_username_001:
+    username: "zs"
+  test_username_002:
+    username: "ls"

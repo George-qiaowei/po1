@@ -1,0 +1,16 @@
+test_phone_reg:
+  test_phone_reg_001:
+    a: 'hello1'
+  test_phone_reg_002:
+    a: 'hello2'
+  test_phone_reg_003:
+    a: 'hello3'
+test_username_reg:
+  test_username_reg_001:
+    b: 'zs'
+    c: zs123
+    d: zs321
+  test_username_reg_002:
+    b: ls
+    c: ls123
+    d: ls321
